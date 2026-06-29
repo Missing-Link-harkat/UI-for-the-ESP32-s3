@@ -11,7 +11,7 @@ This project uses ESP-S3 microcontroller usens the ESP32-S3R8 chip as the main c
 - toucsreen
 - rotation knob
 - saves and deletes the settings
-- dimmens the screen for sleep mode
+- dims the screen for the sleep mode
 
 ## Software
 
