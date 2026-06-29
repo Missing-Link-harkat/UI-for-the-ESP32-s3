@@ -4,7 +4,7 @@ In this project, an esp32-s3 user interface with a touchscreen has been designed
 
 ## Hardware
 
-This project uses ESP-S3 microcontroller usens the ESP32-S3R8 chip as the main controller. All the settings in platformio.ini file has been configured for this board in particular.
+This project uses ESP-S3 microcontroller which uses the ESP32-S3R8 chip as the main controller. All the settings in platformio.ini file has been configured for this board in particular.
 
 ## Features
 
