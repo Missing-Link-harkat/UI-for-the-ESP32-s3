@@ -8,7 +8,7 @@ This project uses ESP-S3 microcontroller usens the ESP32-S3R8 chip as the main c
 
 ## Features
 
-- toucsreen
+- touchscreen
 - rotation knob
 - saves and deletes the settings
 - dims the screen for the sleep mode
